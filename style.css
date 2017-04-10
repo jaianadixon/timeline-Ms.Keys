@@ -1,0 +1,36 @@
+body {
+    font-family: 'Macondo', cursive;
+    background-color: orange;
+}
+
+h1{
+    color:red;
+    text-align:center;
+}
+
+p{
+    color:red;
+    text-align: center;
+    font-size:40px;
+}
+
+a{
+    color:black;
+    font-size:30px;
+}
+
+a:hover{
+    color:skyBlue;
+}
+
+table, th, td {
+   border: 1px solid black;
+   font-size:30px;
+   text-align-last: start:;
+   text-align: center;
+}
+
+h3{
+    font-size:35px;
+    text-align: center;
+}
